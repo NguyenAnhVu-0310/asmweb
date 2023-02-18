@@ -1,0 +1,234 @@
+body{
+    background-image: url("https://images.fpt.shop/unsafe/fit-in/filters:quality(95):fill(transparent)/fptshop.com.vn/Uploads/Originals/2023/1/31/638107835827567565_desk-header-bg.png");
+}
+.ab{
+    background-color: red;
+}
+.ab>img{
+    width: 180px;
+    float: left;
+    }
+.ab>form{
+   float: left;
+}
+.search{
+width: 700px;
+}
+.searchTerm {
+    width: 50%;
+    border: 3px solid white;
+    padding: 10px;
+    height: 10px;
+    border-radius: 5px;
+}
+.searchButton {
+    width: 55px;
+    height: 40px;
+    background: black;
+    color: white;
+    font-size: 30px;
+}
+.bc a{
+margin: 10px;
+text-decoration: none;
+color: white;
+
+}
+.bc{
+margin-left: 20%;
+height: 50px;
+}
+.cd{
+
+text-align: center;
+background-color: black;
+line-height: 50px;
+}
+.dc>img{
+width: 100%;
+}
+.cd a{
+margin-left: 10px;
+color: white;
+text-decoration: none   ;
+}
+.cd i{
+color: white;
+margin: 5px;
+}
+.az{
+padding-left: 15%;
+padding-right: 15%;
+}
+.box0{
+width: 1210px;
+height: 305px;
+border: 1px solid wheat;
+float: left;
+text-align: center;
+margin: 5px;
+border-radius: 5px;
+}
+.box1{
+width: 800px;
+height: 300px;
+border: 1px solid red;
+float: left;
+text-align: center;
+margin: 5px;
+}
+.box2{
+width: 385px;
+height: 295px;
+border: 1px solid red;
+float: left;
+text-align: center;
+margin: 5px;
+border-radius: 5px 5px;
+}
+.box2>img{
+    width: 385px;
+    height: 145px;
+    border-radius: 5px;
+}
+.box2>a{
+float: left;
+}
+.box3{
+height: 190px;
+width: 180px;
+border: 1px solid wheat;
+float: left;
+text-align: center;
+margin: 1px;
+background-color: white;
+}
+.box3>img{
+width: 130px;
+margin: 5px;
+text-align: center;
+}
+.de{
+text-align: center;
+margin: 10px;
+}
+.de>img{
+width: 1300px;
+}
+.kq{
+width: 1450px;
+height: 500px;
+border: 1px solid wheat;
+margin: 150px;
+
+}
+.box4{
+height: 500px;
+text-align: center;
+border-radius: 10px;
+
+}
+.box5{
+width: 300px;
+height: 410px;
+border: 2px solid gray;
+margin: 20px;
+float: left;
+}
+.box5>img{
+width: 200px;
+height: 150px;
+}
+.box5>h4{
+width: 200px;
+height: 100px;
+}
+.box5>del{
+width: 200px;
+height: 200px;
+}
+.gia{
+color: red;
+font-weight: bold;
+}
+.gia>del{
+color: black;
+}
+.kim{
+width: 100%;
+}
+.kq>h1{
+color: red;
+margin: 10px;
+}
+.box6{
+background-image: url(https://th.bing.com/th/id/OIP.ow-0gNR0ByV8EsahDFD-9wHaFj?pid=ImgDet&rs=1);
+width: 1450px;
+height: 650px;
+border: 1px solid wheat;
+margin: 150px;
+text-align: center;
+}
+.box6>h2{
+color: darkseagreen;
+}
+.box6>h1{
+color: white;
+}
+.box6>h3{
+color: white;
+}
+h2>span{
+background: white;
+border-radius: 20px;
+color: green;
+}
+h3>span{
+color: darkseagreen;
+}
+#pr>span{
+width: 500px;
+border: 1px solid bisque;
+border-radius: 10px;
+color: black;
+background-color: darkkhaki;
+}
+.box7{
+width: 1450px;
+margin: 150px;
+border: 1px solid darksalmon;
+border-radius: 10px;
+}
+.box7>img{
+width: 1390px;
+margin: 20px;
+border-radius: 10px;
+}
+.box7>h2{
+margin: 10px;
+}
+.box8{
+margin-left: 150px;
+}
+.box8>img{
+width: 1465px;
+height: 200px;
+padding: auto;
+
+}
+.box9{
+background-color: gray;
+height: 300px;
+width: 100%;
+float:left;
+min-height: 1000px;
+}
+.box10{
+width: 10%;
+float: left;
+
+}
+.box10>img{
+
+
+}
